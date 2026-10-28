@@ -1,4 +1,4 @@
-# DIMUSIC (UAS Mobile Programming)
+# DIMUSIC (UTS Mobile Programming PRACTICUM)
 
 Aplikasi pemutar musik sederhana berbasis Flutter yang memungkinkan pengguna mencari lagu, memutar preview audio, menyimpan playlist, dan menandai lagu favorit.
 
